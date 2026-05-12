@@ -10,7 +10,7 @@ but can have extensive effects on different economic players.
 I want to explore the political, economic and militarial landscape to find trends that could be used to understand the influence of the US sentiment shift as depicted in the 2026 National Defense Strategy on the European region in particular. 
 
 ## What is the 2026 NDS?
-
+...To Come
 
 ## Why Does This Matter?
 Regardless of the stakeholder, this research study is relevant as the outcomes of what we're exploring have direct impacts on the production and transit of key resources in this globalised world.
