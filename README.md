@@ -53,7 +53,7 @@ I will be applying NLP sentiment analysis and topic modeling. The literature con
 ### C - System-Level & Operational Research Questions
 *The "One War Plus" Force Sizing Model - Under the 2026 NDS "one war + ally burden" framework, does the aggregate NATO capability dataset support the assumption that allies can credibly handle a second theater?*
 
-Method: Aggregate the Global Arsenal dataset by NATO region. Compare European NATO total MBT, fighter, and naval tonnage counts against U.S. Pacific holdings. If the U.S. is shifting to a single-war assumption, is the European pillar actually capable of autonomous conventional defense? The DGAP analysis suggests Europe would need €650–800 billion in additional investment by 2028 to close capability gaps, not just spending ratios.
+Aggregate the Global Arsenal dataset by NATO region. Compare European NATO total MBT, fighter, and naval tonnage counts against U.S. Pacific holdings. If the U.S. is shifting to a single-war assumption, is the European pillar actually capable of autonomous conventional defense? The DGAP analysis suggests Europe would need €650–800 billion in additional investment by 2028 to close capability gaps, not just spending ratios.
 
 
 
