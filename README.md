@@ -18,7 +18,7 @@ It appears in Europe we have grown too passive in our assumptions that allied do
 
 This post-war rebuilding era steam rolled our current world order of a US led Western alliance, these recent shifts have led to this alliance's priorities and future being shaped differently to the creators of these alliances.
 
-*"The USA has long continued to be a hegemonic power across economic, political, militarial and cultural domains. However...what do you do when your ally isn't your friend?"*
+*"The USA has long continued to be a hegemonic power across economic, political, militarial and cultural domains. However...what do you do when your ally is no longer your friend?"*
 
 My aim isn't to answer this question but instead to look at the pieces of the political, economic and militarial chess board by ascertaining through thorough exploration where these chess pieces will be moving, what's required to replace the defensive vacuum that's being created as these pieces move and what are both the opportunites & risks due to these factors. This could be useful for deriving insights in areas such as finding investment opportunities, developing knowledge within academia or simply to further strategic understanding of world affairs.
 
